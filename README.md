@@ -4,7 +4,7 @@
 
 
 
-# Light Reflective Mirror
+# Light Reflective Mirage
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/954d1b30c2da8f61037e/maintainability)](https://codeclimate.com/github/Derek-R-S/Light-Reflective-Mirror/maintainability)
 
